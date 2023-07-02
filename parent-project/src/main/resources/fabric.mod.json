@@ -1,0 +1,10 @@
+{
+    "schemaVersion": 1,
+    "id": "aaaa",
+    "version": "39.0.0",
+    "environment": "*",
+    "entrypoints": {
+        "main": ["A"],
+        "client": ["B"]
+    }
+}
